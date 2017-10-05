@@ -225,9 +225,9 @@
 .mascot-preview {
 	align-items: stretch;
 }
-.mascot-preview__download .download-wrapper {
+/* .mascot-preview__download .download-wrapper {
 	float: right;
-}
+} */
 .mascot-preview__cover {
 	display: flex;
 	align-items: center;

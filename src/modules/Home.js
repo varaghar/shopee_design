@@ -140,7 +140,7 @@ export default class Home extends React.Component {
         <div className="title">Articles</div>
         <div id="content">Loading Medium content...</div>
         <hr/>
-    	<div className="title">Team</div>
+    	<div className="title">Teams</div>
         <img src="/static/image/team_member.png" alt="Shopee Design Team Member" className="team-pic"/>
         <div className="bottom-placeholder"/>
 

@@ -7,13 +7,21 @@ Our creative guider shows the idea way to use our logo in various circumstances 
     <h2>Single</h2>
     <img src="/static/image/branding/pattern_single.svg" width="200" height="200" />
   </div>
-  <div class="col">
+  <div class="col mascot-preview__download">
     <h2>Combination</h2>
-    <img src="/static/image/branding/pattern_combination.svg" width="400" height="400" />
+    <div class="download-wrapper download-wrapper--large">
+      <div class="download-preview" style="background-image:url('/static/image/branding/pattern_combination.svg')"></div>
+      <a href="https://www.dropbox.com/s/53d0grgv8dy0151/pattern.ai?dl=1">
+        <div class="download-link">
+          <div class="download-link__title">Download</div>
+          <div class="download-link__description">463KB (AI)</div>
+        </div>
+      </a>
+    </div>
   </div>
 </div>
 
-<div class="download-link">
-	<a class="download-link__title" href="https://www.dropbox.com/s/53d0grgv8dy0151/pattern.ai?dl=1">Pattern Download</a>
-	<div class="download-link__description">89.80MB (PDF)</div>
-</div>
+<!-- <div class="download-link">
+	<a class="download-link__title" href="https://www.dropbox.com/s/53d0grgv8dy0151/pattern.ai?dl=1">Pattern Guideline</a>
+	<div class="download-link__description">463KB (AI)</div>
+</div> -->
