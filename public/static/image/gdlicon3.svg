@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="70px" viewBox="0 0 71 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="71.769 26.7829 71.769 65 0 65 0 0.984 71.769 0.984 71.769 26.7829 45.9691 26.7829 45.9691 0.9839 71.7691 0.9839 71.7691 26.7829"></polygon>
+        <polygon id="path-3" points="0 25.7993 0 0.0003 25.799 0.0003 25.799 25.7993"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopee-design-new-copy-3" transform="translate(-1070.000000, -766.000000)">
+            <g id="Page-1" transform="translate(1070.000000, 760.000000)">
+                <polygon id="Fill-1" fill="#00F9E6" points="0 75.0164 15.48 75.0164 15.48 36.3174 0 36.3174"></polygon>
+                <g id="Group-11" transform="translate(0.000000, 0.016400)">
+                    <g id="Group-4" transform="translate(0.000000, 10.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <path d="M71.7691,13.8829 C71.7691,21.0079 65.9941,26.7829 58.8701,26.7829 C51.7451,26.7829 45.9691,21.0079 45.9691,13.8829 C45.9691,6.7589 51.7451,0.9839 58.8701,0.9839 C65.9941,0.9839 71.7691,6.7589 71.7691,13.8829" id="Fill-2" fill="#FF5B4A" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M70.7994,18.8829 C70.7994,26.0079 65.0244,31.7829 57.9004,31.7829 C50.7754,31.7829 44.9994,26.0079 44.9994,18.8829 C44.9994,11.7589 50.7754,5.9839 57.9004,5.9839 C65.0244,5.9839 70.7994,11.7589 70.7994,18.8829" id="Fill-1" fill="#FFF251"></path>
+                    <path d="M56.3736,53.2218 L12.8496,53.2218 C11.5506,53.2218 10.4866,52.1598 10.4866,50.8608 L10.4866,21.0728 C10.4866,19.7738 11.5506,18.7098 12.8496,18.7098 L56.3736,18.7098 C57.6726,18.7098 58.7346,19.7738 58.7346,21.0728 L58.7346,50.8608 C58.7346,52.1598 57.6726,53.2218 56.3736,53.2218 Z" id="Stroke-5" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Page-1" transform="translate(12.000000, 0.983600)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                    </g>
+                    <path d="M43.3111,62.0822 L33.6971,62.0822 L24.0821,62.0822 C27.4231,61.9642 28.6181,53.2222 28.6181,53.2222 L39.4521,53.2222 C39.4521,53.2222 40.4741,62.0822 43.3111,62.0822 Z" id="Stroke-7" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M17.523,45.6593 L52.872,45.6593" id="Stroke-9" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

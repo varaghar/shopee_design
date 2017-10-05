@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="391px" height="403px" viewBox="0 0 391 403" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="53.7822581" y="117.601583" width="142.841687" height="142.979063"></rect>
+        <filter x="-23.8%" y="-19.6%" width="144.8%" height="144.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.736208546   0 0 0 0 0.336046138   0 0 0 0 0.211357851  0 0 0 0.185546875 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="200.161869" cy="260.889448" rx="64.6188586" ry="64.6810045"></ellipse>
+        <filter x="-26.3%" y="-21.6%" width="149.5%" height="149.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-2" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.836203231   0 0 0 0 0.38991515   0 0 0 0 0.250854371  0 0 0 0.181810462 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="290.844798 269.771663 196.604839 140.356201 385.084758 140.356201"></polygon>
+        <filter x="-12.7%" y="-24.7%" width="138.2%" height="155.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="12" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.854830995   0 0 0 0 0.398331113   0 0 0 0 0.256088397  0 0 0 0.158259737 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopee-design-copy" transform="translate(-1185.000000, -163.000000)">
+            <g id="Group-4" transform="translate(1186.000000, 164.000000)">
+                <g id="Rectangle-11">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="Oval-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M48.2109375,62.5585938 C-65.5593191,-35.5539234 221.860645,-11.6142489 328.916286,91.4231338 C435.971928,194.460517 222.830609,214.260273 234.883231,286.38644 C246.935853,358.512608 207.191224,409.373442 164.018429,398.928485 C128.541694,390.345464 132.060813,342.859606 95.8404092,323.856111 C59.6200057,304.852617 20.459216,322.344448 5.02025766,286.38644 C-29.0106747,207.126915 161.981194,160.671111 48.2109375,62.5585938 Z" id="Path-2" stroke="#FF541E" stroke-width="2"></path>
+                <g id="Triangle" transform="translate(290.844798, 205.063932) rotate(-180.000000) translate(-290.844798, -205.063932) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

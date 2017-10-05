@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="70px" viewBox="0 0 63 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 26.273 0 0.474 12.8997 0.474 25.7994 0.474 25.7994 26.273"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopee-design-new-copy-3" transform="translate(-779.000000, -772.000000)">
+            <g id="Page-1" transform="translate(779.000000, 771.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.526300)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M25.7994,13.373 C25.7994,20.498 20.0244,26.273 12.9004,26.273 C5.7754,26.273 -0.0006,20.498 -0.0006,13.373 C-0.0006,6.249 5.7754,0.474 12.9004,0.474 C20.0244,0.474 25.7994,6.249 25.7994,13.373" id="Fill-1" fill="#FFF252" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M28.0826,70.5263 L40.4126,70.5263 C40.4126,59.2533 49.2056,49.7613 60.4296,48.9183 C60.9796,48.8773 61.5376,48.8553 62.0826,48.8553 L62.0826,36.5253 C61.2316,36.5253 60.3666,36.5573 59.5086,36.6223 C41.8856,37.9473 28.0826,52.8393 28.0826,70.5263" id="Fill-4" fill="#FF865C"></path>
+                <path d="M40.0826,59.0263 L15.0826,59.0263 C13.9826,59.0263 13.0826,58.1263 13.0826,57.0263 L13.0826,15.0263 C13.0826,13.9263 13.9826,13.0263 15.0826,13.0263 L40.0826,13.0263 C41.1826,13.0263 42.0826,13.9263 42.0826,15.0263 L42.0826,57.0263 C42.0826,58.1263 41.1826,59.0263 40.0826,59.0263 Z" id="Stroke-6" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13.0826,19.1659 L42.0826,19.1659" id="Stroke-8" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M13.0826,49.7939 L42.0826,49.7939" id="Stroke-10" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M26.0826,54.5263 C26.0826,53.6983 26.7546,53.0263 27.5826,53.0263 C28.4106,53.0263 29.0826,53.6983 29.0826,54.5263 C29.0826,55.3543 28.4106,56.0263 27.5826,56.0263 C26.7546,56.0263 26.0826,55.3543 26.0826,54.5263" id="Fill-12" fill="#1C1C1C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="64px" viewBox="0 0 56 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 12.2238 0 0.224 24 0.224 24 24.2236 0 24.2236"></polygon>
+        <polygon id="path-3" points="0 64.7764 55.778 64.7764 55.778 1.0004 0 1.0004"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopee-design-new-copy-3" transform="translate(-485.000000, -772.000000)">
+            <g id="Page-1" transform="translate(485.000000, 771.000000)">
+                <g id="Group-3" transform="translate(0.000000, 0.776400)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M24,12.2236 C24,18.8506 18.627,24.2236 12,24.2236 C5.373,24.2236 0,18.8506 0,12.2236 C0,5.5966 5.373,0.2236 12,0.2236 C18.627,0.2236 24,5.5966 24,12.2236" id="Fill-1" fill="#00F9E6" mask="url(#mask-2)"></path>
+                </g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <polygon id="Fill-4" fill="#FFF252" mask="url(#mask-4)" points="15.272 64.7764 55.778 64.7764 55.778 48.3504 15.272 48.3504"></polygon>
+                <path d="M44.772,34.2764 L44.772,58.4074 C44.772,59.4704 43.73,60.3394 42.458,60.3394 L12.364,60.3394 C11.09,60.3394 10.049,59.4704 10.049,58.4074 L10.049,34.2764" id="Stroke-6" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                <path d="M48.3408,27.5957 L48.3668,27.5957 L48.3238,27.4367 C48.2628,27.0447 48.1658,26.6667 48.0248,26.3067 L43.4708,15.1227 C43.2698,14.3657 42.5678,13.8367 41.7638,13.8367 L13.1008,13.8367 C12.2968,13.8367 11.5938,14.3657 11.3938,15.1227 L6.9208,26.0027 C6.5988,26.6957 6.4108,27.4577 6.4108,28.2667 C6.4108,31.3157 8.9518,33.7867 12.0858,33.7867 C14.3458,33.7867 16.2808,32.4917 17.1948,30.6327 C18.1078,32.4917 20.0428,33.7867 22.3018,33.7867 C24.5628,33.7867 26.4978,32.4917 27.4108,30.6327 C28.3238,32.4917 30.2588,33.7867 32.5188,33.7867 C34.7778,33.7867 36.7138,32.4917 37.6268,30.6327 C38.5398,32.4917 40.4748,33.7867 42.7348,33.7867 C45.8688,33.7867 48.4108,31.3157 48.4108,28.2667 C48.4108,28.0367 48.3688,27.8187 48.3408,27.5957 Z" id="Stroke-7" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                <path d="M19.6128,53.7022 L33.9108,53.7022" id="Stroke-8" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

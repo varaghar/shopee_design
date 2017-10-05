@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="65px" viewBox="0 0 68 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 25.9994 0 0.2014 25.7997 0.2014 25.7997 25.9994"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopee-design-new-copy-3" transform="translate(-1368.000000, -766.000000)">
+            <g id="Page-1" transform="translate(1368.000000, 766.000000)">
+                <polygon id="Fill-1" fill="#FFF252" points="31.504 14.9997 67.504 14.9997 67.504 -0.0003 31.504 -0.0003"></polygon>
+                <g id="Group-15" transform="translate(0.000000, 7.144700)">
+                    <g id="Group-4" transform="translate(0.000000, 31.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-3"></g>
+                        <path d="M25.7997,13.1004 C25.7997,20.2244 20.0247,25.9994 12.8997,25.9994 C5.7757,25.9994 -0.0003,20.2244 -0.0003,13.1004 C-0.0003,5.9764 5.7757,0.2014 12.8997,0.2014 C20.0247,0.2014 25.7997,5.9764 25.7997,13.1004" id="Fill-2" fill="#FF5B4A" mask="url(#mask-2)"></path>
+                    </g>
+                    <path d="M13.4471,41.0994 L13.4471,3.6584 C13.4471,2.0364 14.7731,0.7104 16.3941,0.7104 L49.0111,0.7104 C49.2821,0.7104 49.5041,0.9324 49.5041,1.2034 L49.5041,36.0184" id="Stroke-5" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M49.5038,47.618 L19.9538,47.618 C16.3758,47.618 13.4468,45.009 13.4468,41.818 C13.4468,38.629 16.3758,36.018 19.9538,36.018 L49.5038,36.018" id="Stroke-7" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M19.5711,7.5955 L19.5711,28.6825" id="Stroke-9" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Group-14" transform="translate(19.000000, 41.000000)">
+                        <path d="M0.5711,0.8182 L30.5041,0.8182" id="Fill-11" fill="#FFFFFF"></path>
+                        <path d="M0.5711,0.8182 L30.5041,0.8182" id="Stroke-13" stroke="#1C1C1C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

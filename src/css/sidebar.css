@@ -1,0 +1,61 @@
+.expandable-listview_outerDiv {
+  /* padding-bottom:230px; */
+	width:100%;
+}
+
+.expandable-listview_ul {
+  margin: 0px;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.expandable-listview_listHeader {
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 14px;
+  color: #333333;
+  width:100%;
+  padding-left: 40px;
+  height:60px;
+  line-height: 60px;
+  box-sizing:border-box;
+  letter-spacing: 1px;
+}
+
+.expandable-listview_listItems {
+  height: 40px;
+  line-height: 40px;
+  font-size: 13px;
+  font-weight: 400;
+  transition: background-color 0.2s ease-in-out;
+}
+.expandable-listview_listItems a:{
+  transition: color 0.15s ease-in-out;
+}
+
+.expandable-listview_listItems a:hover {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.expandable-listview_triangle {
+  float:right;
+  margin-right:30px;
+  margin-top: 28px;
+  display: inline;
+}
+
+.inverse {
+  transform: scaleY(-1);
+}
+
+.collapsible{
+  transition : height 0.3s ease-in-out;
+  overflow:hidden;
+}
+
+.link{
+  padding-left: 40px;
+  width:100%;
+  display:block;
+  box-sizing:border-box;
+};
