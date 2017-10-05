@@ -56,7 +56,8 @@ export default class Home extends React.Component {
             rss_url: 'https://medium.com/feed/shopee',
             api_key: 'kno0tsodiwcedh5jnzeirsku6lb50c33tw9ylqhe',
             // need to register from https://rss2json.com/me/api_key
-            count: 6
+            count: 6,
+            order_by:'pubDate'
         };
 		$.get('https://api.rss2json.com/v1/api.json', data, function(response) {
             console.log(response);
