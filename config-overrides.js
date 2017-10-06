@@ -6,11 +6,15 @@ module.exports = function(config) {
 
   // Ignore SASS files in the "catchall" loader
   config.module.loaders[0].exclude.push(/\.md$/);
+  config.module.loaders[0].exclude.push(/\.scss$/);
 
   // Add the SASS loader
   config.module.loaders.push({
     test: /\.md$/,
     loaders: ["raw"]
+  },{
+    test: /\.scss$/,
+    loaders: ["style", "css", "sass"]
   });
 
   // Allow importing anything under 'src' as if it were a module.
