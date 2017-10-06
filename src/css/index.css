@@ -499,6 +499,7 @@ input:focus {
     padding-bottom: 30px;
     position: absolute;
     bottom: 0px;
+    padding-top: 100px;
 }
 .footer-tag {
     color: #CCCCCC;

@@ -1,6 +1,13 @@
 # Pattern
 
-Our creative guider shows the idea way to use our logo in various circumstances and also suggests the typography and colour that should be used with our brand to ensure maximun consistency throughout our collaterals. Our logo is avaliable in three different versions: Vertical, horizontal and logomark. These versions are fixed, so please do not tweak ot recreate the logo form its core elements.
+This pattern is specifically designed for Shopee. It applies to the content of brand promotion now. Pattern are used as part of the decoration and is also part of the brand elements.
+This pattern is composed of geometric shapes and can be spliced and extended indefinitely. The extension of the base geometry is shown on the left side of the diagram below.
+
+### Rules for pattern use follow:
+
+1. The ratio of the basic geometry of the texture to the area of use shall be: 
+2. The minimum shall not be less than: 0.07.  
+3. The max shall not exceed: 0.2
 
 <div class="grid">
   <div class="col">

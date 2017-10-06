@@ -1,6 +1,6 @@
 # Banner Guideline
 
-Our creative guider shows the idea way to use our logo in various circumstances and also suggests the typography and colour that should be used with our brand to ensure maximun consistency throughout our collaterals. Our logo is avaliable in three different versions: Vertical, horizontal and logomark. These versions are fixed, so please do not tweak ot recreate the logo form its core elements.
+Banner Guideline is the one to keep banner visual style consistence in each platform. It includes banner size, number font, visual style and non-customisable area. Designer can find the right ratio and style rapidly, makes the banner design more effectively.
 
 <div class="grid">
   <div class="col download-wrapper download-wrapper--large download-wrapper--show-caption">

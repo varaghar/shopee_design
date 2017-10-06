@@ -1,6 +1,6 @@
 # Festive Skin Guideline
 
-Our creative guider shows the idea way to use our logo in various circumstances and also suggests the typography and colour that should be used with our brand to ensure maximun consistency throughout our collaterals. Our logo is avaliable in three different versions: Vertical, horizontal and logomark. These versions are fixed, so please do not tweak ot recreate the logo form its core elements.
+Festive skin guideline can help the designer to know which part can be customised in our APP and PC, and provide a right format to the developer to make the implement more accurate and efficiently. It includes the customisable and non-customisable area, files size, name, and how to export the Spec.
 
 <div class="grid">
   <div class="col download-wrapper download-wrapper--large download-wrapper--show-caption">
