@@ -6,7 +6,7 @@ import Home from './modules/Home'
 import Joinus from './modules/Joinus'
 import Guideline from './modules/Guideline'
 import Components from './modules/Components'
-import './App.scss';
+import './css/index.scss';
 
 render((
   <Router onUpdate={() => window.scrollTo(0, 0)} history={browserHistory}>

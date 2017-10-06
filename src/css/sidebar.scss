@@ -1,0 +1,60 @@
+//colors
+$color_mine_shaft_approx: #333333;
+$black_2: rgba(0, 0, 0, 0.02);
+
+.expandable-listview_outerDiv {
+	width: 100%;
+}
+.expandable-listview_ul {
+	margin: 0;
+	list-style-type: none;
+	padding: 0;
+}
+.expandable-listview_listHeader {
+	cursor: pointer;
+	font-weight: 500;
+	font-size: 14px;
+	color: $color_mine_shaft_approx;
+	width: 100%;
+	padding-left: 40px;
+	height: 60px;
+	line-height: 60px;
+	box-sizing: border-box;
+	letter-spacing: 1px;
+}
+.expandable-listview_listItems {
+	height: 40px;
+	line-height: 40px;
+	font-size: 13px;
+	font-weight: 400;
+	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+	transition: background-color 0.2s ease-in-out;
+	a{
+			transition: color 0.15s ease-in-out;
+		&:hover {
+			background: $black_2;
+		}
+	}
+}
+.expandable-listview_triangle {
+	float: right;
+	margin-right: 30px;
+	margin-top: 28px;
+	display: inline;
+}
+.inverse {
+	//Instead of the line below you could use @include transform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)
+	transform: scaleY(-1);
+}
+.collapsible {
+	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
+	transition: height 0.3s ease-in-out;
+	overflow: hidden;
+}
+.link {
+	padding-left: 40px;
+	width: 100%;
+	display: block;
+	//Instead of the line below you could use @include box-sizing($bs)
+	box-sizing: border-box;
+}

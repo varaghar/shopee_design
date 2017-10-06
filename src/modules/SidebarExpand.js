@@ -1,6 +1,6 @@
 import React from 'react';
 import Submenu from './Submenu';
-import '../css/sidebar.css';
+import '../css/sidebar.scss';
 
 function makeTitle(addr){
   var title = addr.replace(/-/g,' ');

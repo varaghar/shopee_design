@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from './Footer';
 import SidebarExpand from './SidebarExpand'
-import '../css/image.css';
+import '../css/image.scss';
 import {Link} from 'react-router';
 
 var Remarkable = require('remarkable');

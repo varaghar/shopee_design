@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router'
-import '../css/index.css'
+import '../css/index.scss'
 
 export default React.createClass({
   componentDidMount() {

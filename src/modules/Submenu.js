@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
-import '../css/sidebar.css';
+import '../css/sidebar.scss';
 
 function makeAddr(title){
   var addr = title.toLowerCase().replace(/ /g,'-');
