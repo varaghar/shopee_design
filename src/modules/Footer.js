@@ -6,7 +6,7 @@ export default React.createClass({
 	  return (
           <div className="footer">
           <hr/>
-            &copy; Shopee Design 2017 v0.0.3 <span className="footer-tag"> Designed and built by Shopee Design Team</span>
+            &copy; Shopee Design 2017 v0.0.4 <span className="footer-tag"> Designed and built by Shopee Design Team</span>
             <div className="footer-logo">
             <a href="#">
               <img alt="" src="/static/image/logo-fb.svg" />

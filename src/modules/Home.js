@@ -56,7 +56,7 @@ export default class Home extends React.Component {
             rss_url: 'https://medium.com/feed/shopee',
             api_key: 'kno0tsodiwcedh5jnzeirsku6lb50c33tw9ylqhe',
             // need to register from https://rss2json.com/me/api_key
-            count: 6,
+            count: 3,
             order_by:'pubDate'
         };
 		$.get('https://api.rss2json.com/v1/api.json', data, function(response) {
@@ -117,30 +117,27 @@ export default class Home extends React.Component {
      		</div>
         <hr/>
         <div className="main-branding clearfix">
-     		<Link className="branding-card" to="/product/sc-guideline">
+     		<Link className="branding-card" to="/branding/logo">
                 <img src="/static/image/icon-visual-resource.svg" alt="Visual Resource icon"/>
                 <h3>Visual Resource</h3>
                 <p>You can find logos, color, pattern collections shopee platform in here, raising brand images of shopee.</p>
-                <span>Details</span>
      		</Link>
-             <Link className="branding-card" to="/product/sc-guideline">
+             <Link className="branding-card" to="/branding/banner">
                 <img src="/static/image/icon-guideline.svg" alt="Guideline icon"/>
                 <h3>Guideline</h3>
                 <p>You can find Shopee branding guideline here, please follow the principles to maintain Shopee brand image.</p>
-                <span>Details</span>
      		</Link>
-             <Link className="branding-card" to="/product/sc-guideline">
+             <Link className="branding-card" to="/branding/core-value">
                 <img src="/static/image/icon-brand-book.svg" alt="Brand Book icon"/>
                 <h3>Brand Book</h3>
-                <p>You can find Shopee's vision identity here, please follow the principles to maintain Shopee brand image.</p>
-                <span>Details</span>
+                <p>The book hightlights key components important to the Shopee brand: our purpose, our positioning and our personality.</p>
      		</Link>
         </div>
         <hr/>
         <div className="title">Articles</div>
         <div id="content">Loading Medium content...</div>
         <hr/>
-    	<div className="title">Teams</div>
+    	<div className="title">Team</div>
         <img src="/static/image/team_member.png" alt="Shopee Design Team Member" className="team-pic"/>
         <div className="bottom-placeholder"/>
 

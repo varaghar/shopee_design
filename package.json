@@ -3,15 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "compression": "^1.6.1",
-    "express": "^4.13.4",
+    "compression": "^1.7.1",
+    "express": "^4.16.1",
     "if-env": "^1.0.0",
     "json-loader": "^0.5.4",
     "raw-loader": "^0.5.1",
     "react": "^0.14.9",
     "react-dom": "^0.14.7",
     "react-p5-wrapper": "0.0.4",
-    "react-remarkable": "^1.1.1",
+    "react-remarkable": "^1.1.2",
     "react-router": "^2.0.0",
     "remarkable": "^1.7.1"
   },

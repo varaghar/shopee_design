@@ -5,9 +5,9 @@ This pattern is composed of geometric shapes and can be spliced and extended ind
 
 ### Rules for pattern use follow:
 
-1. The ratio of the basic geometry of the texture to the area of use shall be: 
-2. The minimum shall not be less than: 0.07.  
-3. The max shall not exceed: 0.2
+The ratio of the basic geometry of the texture to the area of use shall be: 
+1. The minimum shall not be less than: 0.07.  
+2. The max shall not exceed: 0.2
 
 <div class="grid">
   <div class="col">

@@ -28,10 +28,18 @@ The character and style of this Shogi is the core of the branding design, please
 	<div class="download-link__description">11.3MB (PDF)</div>
 </div>
 
-<!-- ---
+---
 ## Indonisia
 
+<div class="grid mascot-preview">
+  <div class="col mascot-preview__cover">
+    <img src="/static/image/branding/Indonesian-mascots.png" />
+  </div>
+  <div class="col mascot-preview__download">
+  </div>
+</div>
+
 <div class="download-link">
-	<a class="download-link__title" href="https://www.dropbox.com/s/lnjjhf45o0jpvb3/shopee_brand_logo_guidelines.pdf?dl=0" download>Indonisia Mascot Guideline</a>
-	<div class="download-link__description">89.80MB (PNG & PDF)</div>
-</div> -->
+	<a class="download-link__title" href="https://www.dropbox.com/s/1495ici4v1w1d0y/Guideline%20for%20Indonesian%20Hebi%20%26%20Shebi.pdf?dl=1" download>Indonisia Mascot Guideline</a>
+	<div class="download-link__description">13.5MB (PDF)</div>
+</div>
